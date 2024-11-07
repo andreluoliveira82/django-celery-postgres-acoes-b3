@@ -1,0 +1,6 @@
+Thumbs.db
+desktop.ini
+*.sys
+*.dll
+.venv
+db.sqlite3
